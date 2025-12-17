@@ -1,5 +1,7 @@
 # 2025-Ca-channel-manuscript
 
+### https://www.bakerlab.org/2025/10/23/building-calcium-channels-from-scratch/
+
 Here shows the example commands to design a Ca channel from defined selectivity filter geometry.
 
 
